@@ -3,12 +3,12 @@
 
 **Data Analyst** focused on turning raw data into business decisions that drive growth.
 
-## I am:
+## About Me:
 
-* skilled in Advanced **SQL Querying**, **Python** based analysis, **Advanced Excel**, **Power Bi** and other BI tools.
-* uncover insights by analyzing trends, risks and opportunities.
-* build KPI-driven dashboards that help teams track performance and growth.
-* always learning and sharpening my analytical skills.
+* Skilled in Advanced **SQL Querying**, **Python** based analysis, **Advanced Excel**, **Power Bi** and other BI tools.
+* Uncovering insights by analyzing trends, risks and opportunities.
+* Building KPI-driven dashboards that help teams track performance and growth.
+* Always learning and sharpening my analytical skills.
 
 ## Featured Projects
 
