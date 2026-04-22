@@ -1,7 +1,6 @@
-# So glad that you're here!!
-# I'm Orsan
+# Hi there, I'm Orsan 
 
-**Data Analyst** focused on turning raw data into business decisions that drive growth.
+### I am a Data Analyst turning raw data into meaningful tools to help companies make better decisions
 
 ## About Me:
 
