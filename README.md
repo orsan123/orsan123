@@ -29,8 +29,8 @@ Opportunities in **Data Analytics / Business Intelligence** where I can solve bu
 
 ## Connect With Me
 
-* LinkedIn: Add your link here
-* Email: Add your email here
+* LinkedIn: www.linkedin.com/in/orsanpaul27
+* Email: orsan.ps@gmail.com
 
 <!--
 **orsan123/orsan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
