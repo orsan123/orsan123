@@ -1,6 +1,6 @@
 # Hi there, I'm Orsan 
 
-### I am a Data Analyst turning raw data into meaningful tools to help companies make better decisions
+### Data Analyst turning raw data into meaningful tools to help companies make better decisions
 
 ## About Me:
 
