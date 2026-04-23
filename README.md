@@ -1,7 +1,5 @@
 # Hi there, I'm Orsan 
 
-### Data Analyst turning raw data into meaningful tools to help companies make better decisions
-
 ## About Me:
 
 * Skilled in Advanced **SQL Querying**, **Python** based analysis, **Advanced Excel**, **Power Bi** and other BI tools.
