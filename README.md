@@ -9,6 +9,10 @@
 
 ## Featured Projects
 
+### 💰 Marketing Campaign Performance Analysis
+
+Analyzed marketing data to find inefficiencies in campaign scaling and recommended scaling opportunities across audience segments, platforms and geo graphic markets.
+
 ### 📊 Churn Risk Tracker Dashboard
 
 Built a Power BI dashboard to help identify early-stage customer churn risk using transaction behavior and engagement patterns.
@@ -23,7 +27,7 @@ Explored listing performance data to identify what drives demand and how hosts c
 
 ## What I’m Looking For
 
-Opportunities in **Data Analytics / Business Intelligence** where I can solve business problems, support decision-making, and grow into a high-impact analyst.
+Opportunities in **Data Analytics / Business Intelligence** where I can solve business problems and help drive the company's decision making.
 
 ## Connect With Me
 
