@@ -11,7 +11,7 @@
 
 ### 💰 Marketing Campaign Performance Analysis
 
-Analyzed marketing data to find inefficiencies in campaign scaling and recommended scaling opportunities across audience segments, platforms and geo graphic markets.
+Analyzed marketing data to find inefficiencies in campaign scaling and recommended scaling opportunities across audience segments, platforms and geographic markets.
 
 ### 📊 Churn Risk Tracker Dashboard
 
