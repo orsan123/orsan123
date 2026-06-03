@@ -13,7 +13,7 @@
 
 Analyzed marketing data to find inefficiencies in campaign scaling and recommended scaling opportunities across audience segments, platforms and geographic markets.
 
-### 📊 Churn Risk Tracker Dashboard
+### 📊 [Churn Risk Tracker Dashboard] (https://github.com/orsan123/Churn-Risk-Business-Health-Dashboard-Suite)
 
 Built a Power BI dashboard to help identify early-stage customer churn risk using transaction behavior and engagement patterns.
 
