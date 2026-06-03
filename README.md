@@ -17,11 +17,11 @@ Analyzed marketing data to find inefficiencies in campaign scaling and recommend
 
 Built a Power BI dashboard to help identify early-stage customer churn risk using transaction behavior and engagement patterns.
 
-### ☕ Coffee Sales Performance Analysis
+### ☕ [Coffee Sales Performance Analysis](https://github.com/orsan123/Coffee-Sales-Analysis-and-Profit-Optimization)
 
 Analyzed sales and profitability data to recommend actions that improved margins and product mix decisions.
 
-### 🏠 Airbnb Demand Analysis
+### 🏠 [Airbnb Demand Analysis](https://github.com/orsan123/Airbnb-Listings-Data-Analysis)
 
 Explored listing performance data to identify what drives demand and how hosts can improve visibility and bookings.
 
